@@ -1,2 +1,0 @@
-(this["webpackJsonpprannoy-eportfolio"]=this["webpackJsonpprannoy-eportfolio"]||[]).push([[8],{87:function(e,t,n){"use strict";n.r(t);n(0),n(89);var o=n(1);t.default=function(e){var t=e.title;return Object(o.jsx)("div",{className:"header",children:t})}}}]);
-//# sourceMappingURL=8.dbcbeffe.chunk.js.map
