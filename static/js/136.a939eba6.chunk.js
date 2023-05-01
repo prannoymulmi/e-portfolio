@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprannoy_eportfolio=self.webpackChunkprannoy_eportfolio||[]).push([[136,84],{7084:function(e,n,r){r.r(n);r(2791),r(3508);var t=r(184);n.default=function(e){var n=e.title;return(0,t.jsx)("div",{className:"header",children:n})}},3263:function(e,n,r){r.r(n);r(2791),r(7084),r(126),r(7237),r(184);n.default=SRMThreatModeling},7237:function(){}}]);
+//# sourceMappingURL=136.a939eba6.chunk.js.map
