@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useContext } from 'react';
 import ReactMarkdown from 'react-markdown';
+import Accordion from 'react-bootstrap/Accordion';
 import {
   Container, Col, Row, ListGroup, Button,
 } from 'react-bootstrap';
@@ -11,16 +12,18 @@ import Header from '../Header';
 import endpoints from '../../constants/endpoints';
 import FallbackSpinner from '../FallbackSpinner';
 import '../../css/about.css';
+import '../../css/srm_bootstrap.css';
+import { v4 as uuid } from 'uuid';
 
 const styles = {
   introTextContainer: {
-    margin: 10,
+    margin: 50,
     flexDirection: 'column',
     whiteSpace: 'pre-wrap',
     textAlign: 'left',
     fontSize: '1.2em',
     fontWeight: 500,
-    marginBottom: 20,
+    marginBottom: 50,
   },
   introImageContainer: {
     margin: 10,
@@ -67,11 +70,11 @@ function SRMMain() {
               <Fade>
                 <Row>
                   <Col style={styles.introTextContainer}>
-                    <h2 style={styles.header}>Learning Outcomes</h2>
+                    <h2 style={styles.header}>Module Learning Outcomes</h2>
                     <ListGroup as="li" numbered>
                       {data.outcome?.slice(0, outcomeLength).map((outcome) => (
                         <ListGroup.Item
-                          key={outcome}
+                          key={uuid()}
                           style={{
                             backgroundColor: theme.background,
                             color: theme.color,
@@ -80,63 +83,97 @@ function SRMMain() {
                           {outcome}
                         </ListGroup.Item>
                       ))}
-
+                      <a href={data.githubLink}>
+                        <Button
+                            key={uuid()}
+                            style={styles.buttonStyle}
+                            variant={'outline-' + theme.bsSecondaryVariant}
+                            className="artefact-button"
+                        >
+                          Check out all artefacts
+                        </Button>
+                      </a>
                     </ListGroup>
                   </Col>
                 </Row>
                 <hr />
+                <h3> Units in Details</h3>
                 {data.units?.map((unit) => (
                  <Row>
-                  <Col style={styles.introTextContainer}>
-                    <h2 style={styles.header}>{unit.title}</h2>
-                    <h4>Learning Outcomes</h4>
-                    <ListGroup as="li" numbered>
-                      {unit.outcome?.slice(0, outcomeLength).map((outcome) => (
-                        <ListGroup.Item
-                          key={outcome}
-                          style={{
+                   <Col style={styles.introTextContainer}>
+                     <Accordion
+                       style={{
+                        backgroundColor: theme.background,
+                        color: theme.color,
+                      }}
+                      key={uuid()}
+                     >
+                       <Accordion.Item
+                           eventKey={uuid()}
+                           style={{
                             backgroundColor: theme.background,
                             color: theme.color,
                           }}
-                        >
-                          {outcome}
-                        </ListGroup.Item>
-                      ))}
-                    </ListGroup>
-                    {unit.details?.map((detail) => (
-                      detail && (
-                            <div
-                                style={styles.unitText}
-                                key={detail.route}
-                            >
-                              {parseIntro(detail.activity)}
-                              {detail.route &&
-                                  <Link to={detail.route}>
-                                      <Button
-                                          key={detail.route}
-                                          style={styles.buttonStyle}
-                                          variant={'outline-' + theme.bsSecondaryVariant}
-                                      >
-                                          Learn More
-                                      </Button>
-                                  </Link>
-                              }
-                                {detail.downloadLink &&
-                                      <a href={detail.downloadLink}>
-                                        <Button
-                                            key={detail.route}
-                                            style={styles.buttonStyle}
-                                            variant={'outline-' + theme.bsSecondaryVariant}
-                                        >
-                                          Link
-                                        </Button>
-                                      </a>
-                                }
-                            </div>
-                        )
-                    ))}
-
-                  </Col>
+                           key={uuid()}
+                       >
+                         <Accordion.Header style={{
+                           backgroundColor: theme.background,
+                           color: theme.color,
+                         }}>{unit.title}</Accordion.Header>
+                         <Accordion.Body>
+                           <div>
+                             <h2 style={styles.header}>{unit.title}</h2>
+                             <h4>Learning Outcomes</h4>
+                             <ListGroup as="li" numbered>
+                               {unit.outcome?.slice(0, outcomeLength).map((outcome) => (
+                                   <ListGroup.Item
+                                       key={outcome}
+                                       style={{
+                                         backgroundColor: theme.background,
+                                         color: theme.color,
+                                       }}
+                                   >
+                                     {outcome}
+                                   </ListGroup.Item>
+                               ))}
+                             </ListGroup>
+                             {unit.details?.map((detail) => (
+                                 detail && (
+                                     <div
+                                         style={styles.unitText}
+                                         key={detail.route}
+                                     >
+                                       {parseIntro(detail.activity)}
+                                       {detail.route &&
+                                           <Link to={detail.route}>
+                                             <Button
+                                                 key={detail.route}
+                                                 style={styles.buttonStyle}
+                                                 variant={'outline-' + theme.bsSecondaryVariant}
+                                             >
+                                               Learn More
+                                             </Button>
+                                           </Link>
+                                       }
+                                       {detail.downloadLink &&
+                                           <a href={detail.downloadLink}>
+                                             <Button
+                                                 key={detail.route}
+                                                 style={styles.buttonStyle}
+                                                 variant={'outline-' + theme.bsSecondaryVariant}
+                                             >
+                                               Link
+                                             </Button>
+                                           </a>
+                                       }
+                                     </div>
+                                 )
+                             ))}
+                           </div>
+                         </Accordion.Body>
+                       </Accordion.Item>
+                     </Accordion>
+                   </Col>
                  <hr />
                  </Row>
                 ))}
