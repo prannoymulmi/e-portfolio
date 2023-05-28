@@ -19,3 +19,10 @@
     text-decoration: none !important;
     font-style: normal !important;
 }
+
+.reflection-image {
+   /* https://pixabay.com/photos/rain-puddle-water-mirroring-wet-2538429/ */
+    max-width: 100%;
+    border: 8px Solid #555;
+    margin-bottom: 50px;
+}
