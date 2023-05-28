@@ -10,3 +10,12 @@
     max-height: 340px;
     border: 5px solid #555;
 }
+
+.inner-html *{
+    font-size: 16pt !important;
+    line-height: 1.625 !important;
+    font-weight: 400 !important;
+    vertical-align: baseline !important;
+    text-decoration: none !important;
+    font-style: normal !important;
+}

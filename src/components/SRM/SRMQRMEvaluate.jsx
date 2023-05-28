@@ -68,7 +68,7 @@ function SRMQRMEvaluate() {
                     <Fade>
                         <Row>
                             <Col>
-                                <div dangerouslySetInnerHTML={{ __html: source.html }} />
+                                <div  className="inner-html" dangerouslySetInnerHTML={{ __html: source.html }} />
                             </Col>
                         </Row>
                     </Fade>
