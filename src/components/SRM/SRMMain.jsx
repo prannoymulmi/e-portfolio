@@ -179,7 +179,7 @@ function SRMMain() {
                 ))}
                 <Row>
                   <Col style={styles.introTextContainer}>
-                    <h2 style={styles.header}>Reflections</h2>
+                    <h2 style={styles.header}>Reflection</h2>
                     <img className="reflection-image" src="/e-portfolio/images/reflection.jpeg"/>
                     {parseIntro(data.about)}
                     <Link to={data.reflectionLink}>
