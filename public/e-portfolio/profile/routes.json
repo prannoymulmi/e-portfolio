@@ -80,6 +80,11 @@
             "headerTitle": "SRM Unit 10"
         },
         {
+            "component": "SRM/SRMReflection",
+            "path": "/srm_reflection",
+            "headerTitle": "SRM Reflection"
+        },
+        {
             "component": "Skills",
             "path": "/skills",
             "headerTitle": "Skills"

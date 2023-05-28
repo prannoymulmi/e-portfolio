@@ -181,6 +181,13 @@ function SRMMain() {
                   <Col style={styles.introTextContainer}>
                     <h2 style={styles.header}>Reflections</h2>
                     {parseIntro(data.about)}
+                    <Button
+                        key={data.reflectionLink}
+                        style={styles.buttonStyle}
+                        variant={'outline-' + theme.bsSecondaryVariant}
+                    >
+                      Read More
+                    </Button>
                   </Col>
                 </Row>
               </Fade>
