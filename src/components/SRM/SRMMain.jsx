@@ -64,7 +64,6 @@ function SRMMain() {
     <>
       <Header title="Security and Risk Management" />
       <div>
-
         <Container className="about-screen-body-container">
           {data
             ? (
