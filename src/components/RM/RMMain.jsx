@@ -8,12 +8,12 @@ import Fade from 'react-awesome-reveal';
 import { ThemeContext } from 'styled-components';
 import rehypeRaw from 'rehype-raw';
 import { Link } from 'react-router-dom';
+import { v4 as uuid } from 'uuid';
 import Header from '../Header';
 import endpoints from '../../constants/endpoints';
 import FallbackSpinner from '../FallbackSpinner';
 import '../../css/about.css';
 import '../../css/srm_bootstrap.css';
-import { v4 as uuid } from 'uuid';
 
 const styles = {
   introTextContainer: {

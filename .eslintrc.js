@@ -17,7 +17,7 @@ module.exports = {
   plugins: [
     'react',
   ],
-  ignorePatterns: ["/src/components/SRM/*"],
+  ignorePatterns: ["/src/components/SRM/*", "/src/components/RM/*"],
   rules: {
     'prefer-template': 0,
     'react/no-children-prop': [0],
