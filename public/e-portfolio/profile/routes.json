@@ -103,6 +103,11 @@
             "component": "Projects",
             "path": "/projects",
             "headerTitle": "Modules"
+        },
+        {
+            "component": "RM/RMMain",
+            "path": "/rm_main",
+            "headerTitle": "RM Portfolio"
         }
     ]
 }

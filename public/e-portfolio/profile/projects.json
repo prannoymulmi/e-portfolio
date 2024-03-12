@@ -32,6 +32,20 @@
                 "Open Fair",
                 "Industry 4.0"
             ]
+        },
+        {
+            "image" : "../../e-portfolio/images/srm_module_card_image.png",
+            "title": "Research Methods and Professional Practice",
+            "bodyText": "Module which focuses on Research methods and professional practices.",
+            "links": [
+                {
+                    "text": "Portfolio",
+                    "route": "/rm_main"
+                }
+            ],
+            "tags" : [
+                "PROF"
+            ]
         }
     ]
 }
