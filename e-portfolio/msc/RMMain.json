@@ -1,0 +1,205 @@
+{
+  "heading": "Research Methods and Professional Practice",
+  "outcome": [
+    "Distinguish the types and the situation to use qualitative and quantitative analysis methods.",
+    "Create threat models for various scenarios.",
+    "Create quantitative risk models with Monte Carlo simulation and TOPSIS.",
+    "Design and explain DR strategies and solutions."
+  ],
+  "githubLink": "https://github.com/prannoymulmi/Security-and-Risk-Management/tree/main",
+  "units": [
+    {
+      "title": "Unit 1",
+      "details": [
+        {
+          "activity": "<h3>\nCollaborative Learning Discussion 1</h3>\n\n <h4>Discussion Topic</h4>\nBased on your reading of the case study(Kovaitė and Stankevičienė, 2019) answer the following questions in the discussion forum: \n\n<ul><li>What do the authors mean by the term ‘Industry 4.0’ - give two examples.</li><li>Give two real-world examples of risks that fit into the authors categories.</li><li>Find another journal article that either supports or contradicts the points made in the cited study.</li></ul>",
+          "route": "/srm_d1"
+        }
+      ],
+      "outcome": [
+        "Discuss the various definitions of risk.",
+        "Explain how to assess, qualify and mitigate risks.",
+        "Describe various approaches to quantify and qualify risks.",
+        "List common security and risk standards and select the appropriate one(s) for a given situation."
+      ]
+    },
+    {
+      "title": "Unit 2",
+      "details": [
+        {
+          "activity": "<h3>Activity</h3>\n\n <b>Title</b>: User Participation in the Risk Management Process.\n\n This activity analyzes the research paper written by Spears & Barki (2010) article and the use of qualitative and quantitative risk analysis methods used in the articles. In addition, also the impact of user participation in the risk analysis process is reviewed.",
+          "route": "/srm_activity1"
+        }
+      ],
+      "outcome": [
+        "Discuss the differences between assessment approaches (Qualitative vs. Quantitative).",
+        "Explain the importance of user participation in the risk management process.",
+        "Discuss the implications of any recommended mitigations."
+      ]
+    },
+    {
+      "title": "Unit 3",
+      "details": [
+        {
+          "activity": "<h3>\nCollaborative Learning Discussion 1 Summary Post</h3>\n\n <h4>Discussion Topic</h4>\nBased on your reading of the case study(Kovaitė and Stankevičienė, 2019) answer the following questions in the discussion forum: \n\n<ul><li>What do the authors mean by the term ‘Industry 4.0’ - give two examples.</li><li>Give two real-world examples of risks that fit into the authors categories.</li><li>Find another journal article that either supports or contradicts the points made in the cited study.</li></ul>",
+          "route": "/srm_d1_summary"
+        },
+        {
+          "activity": "<h3> Team Meeting: Drafted Team Contract</h3>\n\n As the module consists of few group assigment the team members assigned joined a virtual meet to draft our first team contract. This team contract describes the commitments and goals each member agreed upon.",
+          "route": "/srm_team_contract"
+        }
+      ],
+      "outcome": [
+        "Describe a number of threat modelling techniques.",
+        "Advise which technique should be used in specific situations.",
+        "Discuss when techniques should be combined in a hybrid model."
+      ]
+    },
+    {
+      "title": "Unit 4",
+      "details": [
+        {
+          "activity": "<h3>\nTitle: Threat Modelling Exercises</h3>\n\n <h4>A large international airport based in the United States of America.</h4>\n <ul><li> Used Threat modelling Manifesto, the OWASP Threat modelling Cookbook and the ATT&CK libraries created an attack tree threat model to identify some risks and threats possible in a large airport in the USA.</li><li>Created a data flow diagram to visualize the use cases possible in the airport </li></ul> ",
+          "route": "/srm_threat_model"
+        },
+        {
+          "activity": "<h3> Team Meeting: Assigment 1 Initial Meeting</h3>\n\n The protocol of the meeting held on 29.03.2023 for SRM group 2. ",
+          "route": "/srm_team_agreement_unit4"
+        }
+      ],
+      "outcome": [
+        "Describe where to find the key tools and resources used for threat modelling.",
+        "Explain how to select the most appropriate tool for various situations.",
+        "Critically evaluate the use of threat modeling tools."
+      ]
+    },
+    {
+      "title": "Unit 5",
+      "details": [
+        {
+          "activity": "<h3>\nTitle: GDPR Case Study</h3>\n\n <h4> Case Study: Right to be Forgotten - 2017</h4>\n <ul><li>Read the case study and researched the related gdpr directives. </li><li> Added Mitigations for the case if it were my organizations.</li></ul> ",
+          "route": "/srm_gdpr_case_study"
+        }
+      ],
+      "outcome": [
+        "Explore industry specific security standards and directives.",
+        "Discuss how standards affect security and risk assessments.",
+        "Review a number of common industry and enterprise standards."
+      ]
+    },
+    {
+      "title": "Unit 6",
+      "details": [
+        {
+          "activity": "<h3>\nTitle: Security Frameworks Analysis</h3>\n<h4> Case Study: Frameworks used in various sectors</h4><ul><li>Read and researched the different security frameworks.</li><li> Analyzed which frameworks can be used in which industries.</li><li>The limitations of the frameworks were also researched.</li></ul>",
+          "route": "/srm_sec_frameworks"
+        },
+        {
+          "activity": "<h3>\nTitle: Team Meeting: Assignment 1 Final Meeting </h3>\n<h4> Submission and Preparation of Assignment 1</h4><ul><li>Formatted and edited the report.</li><li> Proof read the report.</li><li> Made subgroups to start work for assignment 2.</li></ul>"
+        },
+        {
+          "activity": "<h3>\nTitle: Assignment 1: Contributions </h3>\n\n<ul><li>Made Architectural diagrams for digitized and non digitized pampered pets.</li><li> Carried out STRIDE threat modeling and risk analysis for the digital transformation.</li><li> Researched and collected which components to implement for the transformation.</li><li> Collected data to support the way to digital transformation of the store.</li></ul> ",
+          "downloadLink": "https://drive.google.com/uc?export=download&id=10WYEHmFmLwa2lAPLd9hQkTvQLSIfBkVX"
+        }
+      ],
+      "outcome": [
+        "Explain which GDPR regulations are applicable in specific situations.",
+        "Describe which other standards might apply in selected situations.",
+        "Advise on mitigations to help a business meet any of the standards applicable to its specific industry (such as data and privacy (GDPR) or financial (PCI-DSS)) , and other standards."
+      ]
+    },
+    {
+      "title": "Unit 7",
+      "details": [
+        {
+          "activity": "<h3>\nCollaborative Learning Discussion 2 Initial Post</h3>\n\n <h4>Discussion Topic</h4><ul><li>Read Spring et al (2021) and researched about the alternatives to CVSS.</li><li>What is CVSS and what are its pitfalls.</li><li>Searched for examples how CVSS fails in the real world.</li></ul>",
+          "route": "/srm_d2"
+        },
+        {
+          "activity": "<h3>\nTitle: Team Meeting: Assignment 2 Initial Meeting </h3>\n<h4> Starting Assignment 2</h4><ul><li>Read and highlighted main points in the assignment.</li><li>Shared additional reading materials.</li><li>Started Brainstorming for the appropriate QRM methodology.</li></ul>"
+        }
+      ],
+      "outcome": [
+        "Reviewed different approaches to QRM including Monte Carlo Simulations and Bayes theoretical models.",
+        "Critically evaluate the pros and cons of different Quantitative Risk modeling."
+      ]
+    },
+    {
+      "title": "Unit 8",
+      "details": [
+        {
+          "activity": "<h3>QRM Evaluation</h3>\n\n <h4>Discussion Topic</h4><ul><li>Read Goerlandt et al (2017), Hugo et al (2018) and Çelikbilek & Tüysüz (2020) and Goerlandt et al (2017) to evaluate various QRM Techniques</li><li>Evaluate the validity of the QRM process.</li><li>Using Monte carlo simulations for project management.</li><li>Evaluated different MCDMs like TOPSIS and SMART.</li></ul>",
+          "route": "/srm_qrm_evaluate"
+        },
+        {
+          "activity": "<h3>\nTitle: Team Meeting: Assignment 2</h3>\n<h4> Brain Storming Session</h4><ul><li>Collected initial requirements and questions to be clarified.</li><li>Started Brainstorming for risks present in the supply chain.</li><li>Created initial document to note all the ideas.</li></ul>"
+        }
+      ],
+      "outcome": [
+        "Applied QRM to real world problems.",
+        "Evaluated QRM techniques like TOPSIS and SMART.",
+        "Ran Monte carlo simulation on Inventory example provided by YASAI."
+      ]
+    },
+    {
+      "title": "Unit 9",
+      "details": [
+        {
+          "activity": "<h3>\nCollaborative Learning Discussion 2 Summary Post</h3>\n\n <h4>Discussion Topic</h4>\nRead Spring et al (2021) and then answer the following questions: \n\n<ul><li>What characteristics of CVSS do the authors criticise? Do you agree with the critique? Justify your answer with academic references.</li><li>The authors also discuss a number of alternatives to CVSS. Select one of these alternatives and post an argument for why it should replace CVSS.</li></ul>",
+          "route": "/srm_d2_summary"
+        },
+        {
+          "activity": "<h3>\nTitle: Team Meeting: Assignment 2</h3>\n<h4> Brain Storming Session</h4><ul><li>Determined the different types of risks surrounding supply chain.</li><li>Started research if the which analysis is fit for our case between MCS, TOPSIS, and Open Fair framework.</li><li>Sub divided to group to collect data for the different risks identified.</li></ul>"
+        }
+      ],
+      "outcome": [
+        "Understanding of Business Continuity, Disaster Recovery, RTO, and RPO.",
+        "Solutions for Disaster Recovery were discovered."
+      ]
+    },
+    {
+      "title": "Unit 10",
+      "details": [
+        {
+          "activity": "<h3>\nDR Solutions Design and Review</h3>\n\n <h4>Discussion Topic</h4>\nRead Opara-Martins et al (2014) and Morrow et al (2021) and answer the following questions:\n\n<ul><li>What are some of the main vendor lock-in issues the authors identify? How would you mitigate them?</li><li>What are some of the security concerns with the modern cloud? How can these be mitigated?</li></ul> <h4>Create a high-level diagram of a DR solution with given requirements.</h4> <ul><li>RPO= 1 hr; RTO= 8 hrs; high availability (HA) required.</li><li>RPO= 24 hrs; RTO = 72 hrs; HA NOT required.</li><li>RPO= 5 mins; RTO= 1 hr; HA required.</li></ul>",
+          "route": "/srm_dr_sol"
+        },
+        {
+          "activity": "<h3>\nTitle: Team Meeting: Assignment 2</h3>\n<h4> Data Collection and AHP-TOPSIS simulation</h4><ul><li>Collected the data for different countries for risks surrounding supply chain.</li><li>Prepared a AHP-TOPSIS simulation.</li><li>Put in data and ran the simulation to get the rankings for the best possible automated warehouse for pampered pets.</li></ul>",
+          "downloadLink": "https://github.com/prannoymulmi/Security-and-Risk-Management/blob/main/simulations/topsis-implementation.ipynb"
+        }
+      ],
+      "outcome": [
+        "Designed Disaster Recovery solutions with different, RTO, and RPO.",
+        "Described and acknowledge the different types of DR solution i.e. DRaaS",
+        "Discussed the challenges with vendor lock-in."
+      ]
+    },
+    {
+      "title": "Unit 11",
+      "details": [
+        {
+          "activity": "<h3>\nTitle: Team Meeting: Assignment 2 Submission</h3>\n<h4> Run TOPSIS and MCS Simulation in python</h4><ul><li>Created a Notebook to run Monte Carlo simulation in python for Pampered pets.</li><li>Created a Notebook to run AHP-TOPSIS simulation in python for Pampered pets.</li><li>Editing and writing the results of the assessment into the report.</li></ul>",
+          "downloadLink": "https://github.com/prannoymulmi/Security-and-Risk-Management/tree/main/simulations"
+        }
+      ],
+      "outcome": [
+        "Discussed the future trends for cyber security.",
+        "Created the Executive Summary for the quantitative assessment for Pampered Pets"
+      ]
+    },
+    {
+      "title": "Unit 12",
+      "details": [
+        {
+          "activity": "<h3>\nE-portfolio and Reflection Writing</h3>\n<ul><li>Finished E-portfolio filling for all the units.</li><li>Wrote reflection regarding the topics learned within the module.</li><li>Arranged all Artefacts in Github which can be accessed by the public.</li></ul>"
+        }
+      ],
+      "outcome": [
+        "Debated the main emerging trends in SRM, i.e., AI, Supply chain."
+      ]
+    }
+  ],
+  "about": "Our daily life is full of uncertainties and complexities involving various risks at each step. For instance, driving is an everyday activity that people do to reach from point A to point B. This process has life-threatening risks, such as being in a severe accident which can occur at any point of driving. However, due to the benefit and convenience of driving, various rules and mitigations are implemented to reduce the apparent risk of accidents on the road. Similarly, different kinds of businesses also endure risks, which can happen in every step to gain maximal profit. Since risks are inevitable and are a natural process of achieving a goal, it is crucial to clearly identify and effectively manage them to avoid and reduce probable pitfalls ...............",
+  "reflectionLink": "/srm_reflection"
+}
