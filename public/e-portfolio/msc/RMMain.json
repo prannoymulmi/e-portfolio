@@ -16,8 +16,8 @@
           "route": "/rm_ref1"
         },
         {
-          "activity": "\"activity\": \"<h3>\\nTitle: Collaborative Learning Discussion 1 </h3>\\n<h4> Create a Initial Post on Case: Malware Disruption\n\n</h4>",
-          "route": "https://www.my-course.co.uk/mod/forum/discuss.php?d=217386"
+          "activity": "<h3>Activity</h3>\n\n <b>Title</b> Collaborative Learning Discussion 1 \n\n Created a Initial Post on Case: Malware Disruption\n\n</h4>",
+          "downloadLink": "https://www.my-course.co.uk/mod/forum/discuss.php?d=217386"
         }
       ],
       "outcome": [
