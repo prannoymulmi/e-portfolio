@@ -1,10 +1,10 @@
 {
   "heading": "Research Methods and Professional Practice",
   "outcome": [
-    "Distinguish the types and the situation to use qualitative and quantitative analysis methods.",
-    "Create threat models for various scenarios.",
-    "Create quantitative risk models with Monte Carlo simulation and TOPSIS.",
-    "Design and explain DR strategies and solutions."
+    "Appraise the professional, legal, social, cultural and ethical issues that affect computing professionals.",
+    "Appraise the principles of academic investigation, applying them to a research topic in the applicable computing field.",
+    "Evaluate critically existing literature, research design and methodology for the chosen topic, including data analysis processes.",
+    "Produce and evaluate critically a research proposal for the chosen topic."
   ],
   "githubLink": "https://github.com/prannoymulmi/Security-and-Risk-Management/tree/main",
   "units": [
@@ -13,14 +13,12 @@
       "details": [
         {
           "activity": "<h3>\nCollaborative Learning Discussion 1</h3>\n\n <h4>Discussion Topic</h4>\nBased on your reading of the case study(Kovaitė and Stankevičienė, 2019) answer the following questions in the discussion forum: \n\n<ul><li>What do the authors mean by the term ‘Industry 4.0’ - give two examples.</li><li>Give two real-world examples of risks that fit into the authors categories.</li><li>Find another journal article that either supports or contradicts the points made in the cited study.</li></ul>",
-          "route": "/srm_d1"
+          "route": "/rm_d1"
         }
       ],
       "outcome": [
-        "Discuss the various definitions of risk.",
-        "Explain how to assess, qualify and mitigate risks.",
-        "Describe various approaches to quantify and qualify risks.",
-        "List common security and risk standards and select the appropriate one(s) for a given situation."
+        "Differentiate between inductive and deductive reasoning.",
+        "Understand why ethics are important and how they may relate to your area of research and your professional practice."
       ]
     },
     {

@@ -108,6 +108,11 @@
             "component": "RM/RMMain",
             "path": "/rm_main",
             "headerTitle": "RM Portfolio"
+        },
+        {
+            "component": "RM/RMDiscussion1",
+            "path": "/rm_d1",
+            "headerTitle": "RM Discussion 1"
         }
     ]
 }
