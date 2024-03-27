@@ -51,7 +51,7 @@ function SRMMain() {
   );
 
   useEffect(() => {
-    fetch(endpoints.srmMain, {
+    fetch(endpoints.rmMain, {
       method: 'GET',
     })
       .then((res) => res.json())

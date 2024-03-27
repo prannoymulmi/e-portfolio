@@ -10,6 +10,7 @@ const endpoints = {
   projects: './e-portfolio/profile/projects.json',
   launchingIntoCS: './e-portfolio/msc/launchingIntoCyberSec.json',
   srmMain: './e-portfolio/msc/SRMMain.json',
+  rmMain: './e-portfolio/msc/RMMain.json',
 };
 
 export default endpoints;
