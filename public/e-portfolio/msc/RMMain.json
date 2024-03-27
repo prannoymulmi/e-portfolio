@@ -12,8 +12,8 @@
       "title": "Unit 1",
       "details": [
         {
-          "activity": "<h3>\nUnit 1 Reflective Piece</h3>\n\n <h4>Discussion Topic</h4>\n Ethics in Computing in the age of Generative AI.",
-          "route": "/rm_d1"
+          "activity": "<h3>\nUnit 1 Reflective Piece</h3>\n\n <h4>Discussion Topic</h4>\n Ethics in Computing in the age of Generative AI.\n",
+          "route": "/rm_ref1"
         }
       ],
       "outcome": [

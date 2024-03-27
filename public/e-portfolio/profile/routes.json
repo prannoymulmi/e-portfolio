@@ -110,9 +110,9 @@
             "headerTitle": "RM Portfolio"
         },
         {
-            "component": "RM/RMDiscussion1",
-            "path": "/rm_d1",
-            "headerTitle": "RM Discussion 1"
+            "component": "RM/RMReflection1",
+            "path": "/rm_ref1",
+            "headerTitle": "RM Reflection 1"
         }
     ]
 }
