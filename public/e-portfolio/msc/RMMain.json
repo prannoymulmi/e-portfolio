@@ -14,6 +14,10 @@
         {
           "activity": "<h3>\nUnit 1 Reflective Piece</h3>\n\n <h4>Discussion Topic</h4>\n Ethics in Computing in the age of Generative AI.\n",
           "route": "/rm_ref1"
+        },
+        {
+          "activity": "\"activity\": \"<h3>\\nTitle: Collaborative Learning Discussion 1 </h3>\\n<h4> Create a Initial Post on Case: Malware Disruption\n\n</h4>",
+          "route": "https://www.my-course.co.uk/mod/forum/discuss.php?d=217386"
         }
       ],
       "outcome": [
