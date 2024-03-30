@@ -17,26 +17,27 @@
         },
         {
           "activity": "<h3>Activity</h3>\n\n <b>Title</b> Collaborative Learning Discussion 1 \n\n Created a Initial Post on Case: Malware Disruption\n\n</h4>",
-          "downloadLink": "https://www.my-course.co.uk/mod/forum/discuss.php?d=217386"
+          "route": "/rm_discussion1Intro"
         }
       ],
       "outcome": [
         "Differentiate between inductive and deductive reasoning.",
-        "Understand why ethics are important and how they may relate to your area of research and your professional practice."
+        "Understand why ethics are important and how they may relate to your area of research and your professional practice.",
+        "Added Initial Post for the first discussion"
       ]
     },
     {
       "title": "Unit 2",
       "details": [
         {
-          "activity": "<h3>Activity</h3>\n\n <b>Title</b>: User Participation in the Risk Management Process.\n\n This activity analyzes the research paper written by Spears & Barki (2010) article and the use of qualitative and quantitative risk analysis methods used in the articles. In addition, also the impact of user participation in the risk analysis process is reviewed.",
-          "route": "/srm_activity1"
+          "activity": "<h3>Activity</h3>\n\n <b>Title</b>: Collaborative Learning Discussion 1: Reply\n\n This activity Continues the discussion started in Unit 1 with reply to the on going discussions",
+          "route": "/rm_discussion1reply1"
         }
       ],
       "outcome": [
-        "Discuss the differences between assessment approaches (Qualitative vs. Quantitative).",
-        "Explain the importance of user participation in the risk management process.",
-        "Discuss the implications of any recommended mitigations."
+        "Examined the characteristics that make up a suitable research topic.",
+        "Explored rational and creative methods for formulating a research idea.",
+        "Took part in Discussion with replies."
       ]
     },
     {
