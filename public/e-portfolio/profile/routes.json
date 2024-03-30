@@ -115,7 +115,7 @@
             "headerTitle": "RM Reflection 1"
         },
         {
-            "component": "RM/RMDiscussion1Intro",
+            "component": "RM/RMDiscussion1Intro1",
             "path": "/rm_discussion1Intro",
             "headerTitle": "RM Discussion 1 Intro"
         },
