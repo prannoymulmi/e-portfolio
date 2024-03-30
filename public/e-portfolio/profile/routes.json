@@ -113,6 +113,16 @@
             "component": "RM/RMReflection1",
             "path": "/rm_ref1",
             "headerTitle": "RM Reflection 1"
+        },
+        {
+            "component": "RM/RMDiscussion1Intro",
+            "path": "/rm_discussion1Intro",
+            "headerTitle": "RM Discussion 1 Intro"
+        },
+        {
+            "component": "RM/RMDiscussion1Reply1",
+            "path": "/rm_discussion1reply1",
+            "headerTitle": "RM Discussion 1 Reply"
         }
     ]
 }
