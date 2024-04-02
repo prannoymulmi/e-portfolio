@@ -123,6 +123,11 @@
             "component": "RM/RMDiscussion1Reply1",
             "path": "/rm_discussion1reply1",
             "headerTitle": "RM Discussion 1 Reply"
+        },
+        {
+            "component": "RM/RMDiscussion1Reply2",
+            "path": "/rm_discussion1reply2",
+            "headerTitle": "RM Discussion 1 Reply"
         }
     ]
 }
