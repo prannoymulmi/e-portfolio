@@ -32,6 +32,10 @@
         {
           "activity": "<h3>Activity</h3>\n\n <b>Title</b>: Collaborative Learning Discussion 1: Reply\n\n This activity Continues the discussion started in Unit 1 with reply to the on going discussions",
           "route": "/rm_discussion1reply1"
+        },
+        {
+          "activity": "<h3>Activity</h3>\n\n <b>Title</b>: Collaborative Learning Discussion 1: Reply\n\n This activity Continues the discussion started in Unit 1 with reply to the on going discussions",
+          "route": "/rm_discussion1reply2"
         }
       ],
       "outcome": [
