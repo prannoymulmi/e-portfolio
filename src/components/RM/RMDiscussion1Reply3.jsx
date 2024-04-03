@@ -62,7 +62,7 @@ function SRMD1() {
     const outcomeLength = data ? data.outcome.length : 3;
     return (
         <>
-            <Header title="SRM Discussion 1 Reply 2" />
+            <Header title="SRM Discussion 1 Reply 3" />
             <div>
                 <Container className="about-screen-body-container">
                     <Fade>
