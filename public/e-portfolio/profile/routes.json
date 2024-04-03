@@ -127,7 +127,12 @@
         {
             "component": "RM/RMDiscussion1Reply2",
             "path": "/rm_discussion1reply2",
-            "headerTitle": "RM Discussion 1 Reply"
+            "headerTitle": "RM Discussion 2 Reply"
+        },
+        {
+            "component": "RM/RMDiscussion1Reply3",
+            "path": "/rm_discussion1reply3",
+            "headerTitle": "RM Discussion 3 Reply"
         }
     ]
 }
