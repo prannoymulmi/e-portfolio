@@ -30,15 +30,15 @@
       "title": "Unit 2",
       "details": [
         {
-          "activity": "<h3>Activity</h3>\n\n <b>Title</b>: Collaborative Learning Discussion 1: Reply\n\n This activity Continues the discussion started in Unit 1 with reply 1 to the on going discussions",
+          "activity": "<h3>Activity</h3>\n\n <b>Title</b>: Collaborative Learning Discussion 1: Reply (Bradley)\n\n This activity Continues the discussion started in Unit 1 with reply 1 to the on going discussions",
           "route": "/rm_discussion1reply1"
         },
         {
-          "activity": "<h3>Activity</h3>\n\n <b>Title</b>: Collaborative Learning Discussion 1: Reply\n\n This activity Continues the discussion started in Unit 1 with reply 2 to the on going discussions",
+          "activity": "<h3>Activity</h3>\n\n <b>Title</b>: Collaborative Learning Discussion 1: Reply (Stella)\n\n This activity Continues the discussion started in Unit 1 with reply 2 to the on going discussions",
           "route": "/rm_discussion1reply2"
         },
         {
-          "activity": "<h3>Activity</h3>\n\n <b>Title</b>: Collaborative Learning Discussion 1: Reply\n\n This activity Continues the discussion started in Unit 1 with reply 3 to the on going discussions",
+          "activity": "<h3>Activity</h3>\n\n <b>Title</b>: Collaborative Learning Discussion 1: Reply (Clarissa)\n\n This activity Continues the discussion started in Unit 1 with reply 3 to the on going discussions",
           "route": "/rm_discussion1reply3"
         }
       ],
