@@ -133,6 +133,11 @@
             "component": "RM/RMDiscussion1Reply3",
             "path": "/rm_discussion1reply3",
             "headerTitle": "RM Discussion 3 Reply"
+        },
+        {
+            "component": "RM/RMDiscussion1SummaryPost",
+            "path": "/rm_d1_summary",
+            "headerTitle": "RM Discussion 1 Summary Post"
         }
     ]
 }
