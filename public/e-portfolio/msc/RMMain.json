@@ -66,18 +66,14 @@
       "title": "Unit 4",
       "details": [
         {
-          "activity": "<h3>\nTitle: Threat Modelling Exercises</h3>\n\n <h4>A large international airport based in the United States of America.</h4>\n <ul><li> Used Threat modelling Manifesto, the OWASP Threat modelling Cookbook and the ATT&CK libraries created an attack tree threat model to identify some risks and threats possible in a large airport in the USA.</li><li>Created a data flow diagram to visualize the use cases possible in the airport </li></ul> ",
-          "route": "/srm_threat_model"
-        },
-        {
-          "activity": "<h3> Team Meeting: Assigment 1 Initial Meeting</h3>\n\n The protocol of the meeting held on 29.03.2023 for SRM group 2. ",
-          "route": "/srm_team_agreement_unit4"
+          "activity": "<h3>\nTitle: Literature Review Outline</h3>\n\n <h4>Created an outline for the Literature Review due on Unit 7.</h4>",
+          "route": "/rm_lro"
         }
       ],
       "outcome": [
-        "Describe where to find the key tools and resources used for threat modelling.",
-        "Explain how to select the most appropriate tool for various situations.",
-        "Critically evaluate the use of threat modeling tools."
+        "Understood how to carry out each of these data collection methods.",
+        "Explored different investigation methods.",
+        "Gain information about the suitable type of data for the investigation."
       ]
     },
     {

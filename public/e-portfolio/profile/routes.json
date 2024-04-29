@@ -138,6 +138,11 @@
             "component": "RM/RMDiscussion1SummaryPost",
             "path": "/rm_d1_summary",
             "headerTitle": "RM Discussion 1 Summary Post"
+        },
+        {
+            "component": "RM/RMLiteratureReviewOutline",
+            "path": "/rm_lro",
+            "headerTitle": "RM Literature Review Outline"
         }
     ]
 }
