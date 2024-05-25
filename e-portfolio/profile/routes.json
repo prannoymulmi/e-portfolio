@@ -148,6 +148,11 @@
             "component": "RM/RMReflection",
             "path": "/rm_reflection",
             "headerTitle": "RM Reflection"
+        },
+        {
+            "component": "RM/RMUnit6Stats",
+            "path": "/rm_unit6_stats",
+            "headerTitle": "RM Unit 6 Stats"
         }
     ]
 }
