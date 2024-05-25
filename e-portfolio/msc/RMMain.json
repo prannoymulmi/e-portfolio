@@ -6,7 +6,7 @@
     "Evaluate critically existing literature, research design and methodology for the chosen topic, including data analysis processes.",
     "Produce and evaluate critically a research proposal for the chosen topic."
   ],
-  "githubLink": "https://github.com/prannoymulmi/Security-and-Risk-Management/tree/main",
+  "githubLink": "https://github.com/prannoymulmi/RM-Stats",
   "units": [
     {
       "title": "Unit 1",
@@ -80,14 +80,14 @@
       "title": "Unit 5",
       "details": [
         {
-          "activity": "<h3>\nTitle: GDPR Case Study</h3>\n\n <h4> Case Study: Right to be Forgotten - 2017</h4>\n <ul><li>Read the case study and researched the related gdpr directives. </li><li> Added Mitigations for the case if it were my organizations.</li></ul> ",
-          "route": "/srm_gdpr_case_study"
+          "activity": "<h3>\nTitle: Designed Questionnaires</h3>\n<ul><li>Discovered examples of good and a bad questionnaires.</li><li></li><ul>"
+
         }
       ],
       "outcome": [
-        "Explore industry specific security standards and directives.",
-        "Discuss how standards affect security and risk assessments.",
-        "Review a number of common industry and enterprise standards."
+        "Understand how interviews and surveys fit into research and whether either or both of these might be useful for your investigation.",
+        "Design a questionnaire to obtain the responses you will need for your investigation.",
+        "Understand how the data obtained can be analysed."
       ]
     },
     {
