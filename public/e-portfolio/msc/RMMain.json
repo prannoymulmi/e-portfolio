@@ -80,7 +80,7 @@
       "title": "Unit 5",
       "details": [
         {
-          "activity": "<h3>\nTitle: Designed Questionnaires</h3>\n<ul><li>Discovered examples of good and a bad questionnaires.</li><li></li><ul>"
+          "activity": "<h3>\nTitle: Designed Questionnaires</h3>\n<ul><li>Discovered examples of good and a bad questionnaires.</li><li>Checked examples of data collection.</li><ul>"
 
         }
       ],
@@ -94,15 +94,8 @@
       "title": "Unit 6",
       "details": [
         {
-          "activity": "<h3>\nTitle: Security Frameworks Analysis</h3>\n<h4> Case Study: Frameworks used in various sectors</h4><ul><li>Read and researched the different security frameworks.</li><li> Analyzed which frameworks can be used in which industries.</li><li>The limitations of the frameworks were also researched.</li></ul>",
-          "route": "/srm_sec_frameworks"
-        },
-        {
-          "activity": "<h3>\nTitle: Team Meeting: Assignment 1 Final Meeting </h3>\n<h4> Submission and Preparation of Assignment 1</h4><ul><li>Formatted and edited the report.</li><li> Proof read the report.</li><li> Made subgroups to start work for assignment 2.</li></ul>"
-        },
-        {
-          "activity": "<h3>\nTitle: Assignment 1: Contributions </h3>\n\n<ul><li>Made Architectural diagrams for digitized and non digitized pampered pets.</li><li> Carried out STRIDE threat modeling and risk analysis for the digital transformation.</li><li> Researched and collected which components to implement for the transformation.</li><li> Collected data to support the way to digital transformation of the store.</li></ul> ",
-          "downloadLink": "https://drive.google.com/uc?export=download&id=10WYEHmFmLwa2lAPLd9hQkTvQLSIfBkVX"
+          "activity": "<h3>\nTitle: Summary Measures Worksheets (Statistics)</h3>\n",
+          "route": "/rm_unit6_stats"
         }
       ],
       "outcome": [
