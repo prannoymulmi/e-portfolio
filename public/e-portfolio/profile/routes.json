@@ -143,6 +143,11 @@
             "component": "RM/RMLiteratureReviewOutline",
             "path": "/rm_lro",
             "headerTitle": "RM Literature Review Outline"
+        },
+        {
+            "component": "RM/RMReflection",
+            "path": "/rm_reflection",
+            "headerTitle": "RM Reflection"
         }
     ]
 }
