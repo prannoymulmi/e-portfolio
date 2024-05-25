@@ -148,6 +148,11 @@
             "component": "RM/RMReflection",
             "path": "/rm_reflection",
             "headerTitle": "RM Reflection"
-        }
+        },
+        {
+            "component": "RM/RMResearchProposalOutline",
+            "path": "/rm_research_proposal_outline",
+            "headerTitle": "RM Research proposal outline"
+        },
     ]
 }

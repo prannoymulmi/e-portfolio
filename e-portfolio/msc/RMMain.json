@@ -108,9 +108,9 @@
       "title": "Unit 7",
       "details": [
         {
-          "activity": "<h3>\nTitle: Summary Measures Worksheets (Statistics)</h3>\n\n<ul><li>Used Mean Standard Deviation and quartile ranges to analyse data.</li><ul>",
+          "activity": "<h3>\nTitle: Hypothesis Testing Worksheets (Statistics)</h3>\n\n<ul><li>Used inferential statistic method hypothesis testing to analyse similarities between two datasets.</li><ul>",
           "downloadLink": "https://github.com/prannoymulmi/RM-Stats/blob/main/Unit7.ipynb"
-        },
+        }
       ],
       "outcome": [
         "Applied inferential statistics to data analysis using Hypothesis testing.",
@@ -121,33 +121,27 @@
       "title": "Unit 8",
       "details": [
         {
-          "activity": "<h3>QRM Evaluation</h3>\n\n <h4>Discussion Topic</h4><ul><li>Read Goerlandt et al (2017), Hugo et al (2018) and Çelikbilek & Tüysüz (2020) and Goerlandt et al (2017) to evaluate various QRM Techniques</li><li>Evaluate the validity of the QRM process.</li><li>Using Monte carlo simulations for project management.</li><li>Evaluated different MCDMs like TOPSIS and SMART.</li></ul>",
-          "route": "/srm_qrm_evaluate"
-        },
-        {
-          "activity": "<h3>\nTitle: Team Meeting: Assignment 2</h3>\n<h4> Brain Storming Session</h4><ul><li>Collected initial requirements and questions to be clarified.</li><li>Started Brainstorming for risks present in the supply chain.</li><li>Created initial document to note all the ideas.</li></ul>"
+          "activity": "<h3>Research Proposal Outline</h3>\n\n <h4>Created a rough outline that will be used for creating the research proposal in Unit 10 with the required points. </h4>",
+          "route": "/rm_research_proposal_outline"
         }
       ],
       "outcome": [
-        "Applied QRM to real world problems.",
-        "Evaluated QRM techniques like TOPSIS and SMART.",
-        "Ran Monte carlo simulation on Inventory example provided by YASAI."
+        "Researched the different types of analysis and how they may be useful for the data collection.",
+        "Evaluated different types of charts to analyse data.",
+        "Made a research proposal outline"
       ]
     },
     {
       "title": "Unit 9",
       "details": [
         {
-          "activity": "<h3>\nCollaborative Learning Discussion 2 Summary Post</h3>\n\n <h4>Discussion Topic</h4>\nRead Spring et al (2021) and then answer the following questions: \n\n<ul><li>What characteristics of CVSS do the authors criticise? Do you agree with the critique? Justify your answer with academic references.</li><li>The authors also discuss a number of alternatives to CVSS. Select one of these alternatives and post an argument for why it should replace CVSS.</li></ul>",
-          "route": "/srm_d2_summary"
-        },
-        {
-          "activity": "<h3>\nTitle: Team Meeting: Assignment 2</h3>\n<h4> Brain Storming Session</h4><ul><li>Determined the different types of risks surrounding supply chain.</li><li>Started research if the which analysis is fit for our case between MCS, TOPSIS, and Open Fair framework.</li><li>Sub divided to group to collect data for the different risks identified.</li></ul>"
+          "activity": "<h3>\nTitle: Charts Worksheets (Statistics)</h3>\n\n<ul><li>Used Histograms to analyse datasets.</li><ul>",
+          "downloadLink": "https://github.com/prannoymulmi/RM-Stats/blob/main/Unit9.ipynb"
         }
       ],
       "outcome": [
-        "Understanding of Business Continuity, Disaster Recovery, RTO, and RPO.",
-        "Solutions for Disaster Recovery were discovered."
+        "Learned to use histograms and charts to analyse data.",
+        "Concepts of validity, generalisability and reliability affect your investigation and the design of your research method were read."
       ]
     },
     {
