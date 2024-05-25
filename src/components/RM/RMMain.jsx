@@ -156,7 +156,7 @@ function SRMMain() {
                                            </Link>
                                        }
                                        {detail.downloadLink &&
-                                           <a href={detail.downloadLink}>
+                                           <a href={detail.downloadLink} target="_blank">
                                              <Button
                                                  key={detail.route}
                                                  style={styles.buttonStyle}
