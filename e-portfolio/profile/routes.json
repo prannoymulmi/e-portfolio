@@ -153,6 +153,6 @@
             "component": "RM/RMResearchProposalOutline",
             "path": "/rm_research_proposal_outline",
             "headerTitle": "RM Research proposal outline"
-        },
+        }
     ]
 }
