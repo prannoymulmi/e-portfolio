@@ -94,7 +94,7 @@
       "title": "Unit 6",
       "details": [
         {
-          "activity": "<h3>\nTitle: Summary Measures Worksheets (Statistics)</h3>\n",
+          "activity": "<h3>\nTitle: Summary Measures Worksheets (Statistics)</h3>\n\n<ul><li>Used Mean Standard Deviation and quartile ranges to analyse data.</li><ul>",
           "downloadLink": "https://github.com/prannoymulmi/RM-Stats/blob/main/Unit6.ipynb"
         }
       ],
@@ -108,16 +108,13 @@
       "title": "Unit 7",
       "details": [
         {
-          "activity": "<h3>\nCollaborative Learning Discussion 2 Initial Post</h3>\n\n <h4>Discussion Topic</h4><ul><li>Read Spring et al (2021) and researched about the alternatives to CVSS.</li><li>What is CVSS and what are its pitfalls.</li><li>Searched for examples how CVSS fails in the real world.</li></ul>",
-          "route": "/srm_d2"
+          "activity": "<h3>\nTitle: Summary Measures Worksheets (Statistics)</h3>\n\n<ul><li>Used Mean Standard Deviation and quartile ranges to analyse data.</li><ul>",
+          "downloadLink": "https://github.com/prannoymulmi/RM-Stats/blob/main/Unit7.ipynb"
         },
-        {
-          "activity": "<h3>\nTitle: Team Meeting: Assignment 2 Initial Meeting </h3>\n<h4> Starting Assignment 2</h4><ul><li>Read and highlighted main points in the assignment.</li><li>Shared additional reading materials.</li><li>Started Brainstorming for the appropriate QRM methodology.</li></ul>"
-        }
       ],
       "outcome": [
-        "Reviewed different approaches to QRM including Monte Carlo Simulations and Bayes theoretical models.",
-        "Critically evaluate the pros and cons of different Quantitative Risk modeling."
+        "Applied inferential statistics to data analysis using Hypothesis testing.",
+        "Identified the and analysed different probability distributions, like the normal distribution, uniform distribution."
       ]
     },
     {

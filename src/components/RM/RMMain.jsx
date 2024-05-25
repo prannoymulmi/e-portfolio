@@ -191,14 +191,6 @@ function SRMMain() {
                         Read More
                       </Button>
                     </Link>
-                    <h4 style={styles.header}>Unit 6 vs Unit 11</h4>
-                    <img className="reflection-image" src="/e-portfolio/images/srm_units_eval.jpg"/>
-                    <h4 style={styles.header}>References</h4>
-                    <ul>
-                      <li>Ncubukezi, T., 2020. A proposed: integration of the Monte Carlo model and the bayes network to propose cyber security risk assessment tool for small and medium enterprises in South Africa. International Journal of Computer Science and Information Security (IJCSIS), 18(3).</li>
-                      <li>Ramona, S.E., 2011. Advantages and disadvantages of quantitative and qualitative information risk approaches. Chinese Business Review, 10(12).</li>
-                      <li>Roszkowska, E., 2011. Multi-criteria decision making models by applying the TOPSIS method to crisp and interval data. Multiple Criteria Decision Making/University of Economics in Katowice, 6(1), pp.200-230.</li>
-                    </ul>
                   </Col>
                 </Row>
               </Fade>
