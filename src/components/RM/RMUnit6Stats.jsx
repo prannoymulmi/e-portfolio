@@ -7728,9 +7728,9 @@ a.anchor-link {
 </tr>
 </tbody>
 </table>
-<h3 id="Exercise-6.1">Exercise 6.1<a class="anchor-link" href="#Exercise-6.1">¶</a></h3><p><img alt="alt text" src="data/ex6-2.png"/></p>
+<h3 id="Exercise-6.1">Exercise 6.1<a class="anchor-link" href="#Exercise-6.1">¶</a></h3><p><img alt="alt text" src="/e-portfolio/images/RM/ex6-2.png"/></p>
 <p>Looking at the Standard deviations of both Diet A (2.536) and Diet B (2.769) the deviations of the weight loss from are very similar and both data diets exhibit similar variability, However, the mean for Diet A shows a better weight loss of 1.6 kg on average on this sample size of 50, which suggests that Diet A should be preferred.</p>
-<h3 id="Exercise-6.2">Exercise 6.2<a class="anchor-link" href="#Exercise-6.2">¶</a></h3><p><img alt="alt text" src="data/ex6-2.png"/></p>
+<h3 id="Exercise-6.2">Exercise 6.2<a class="anchor-link" href="#Exercise-6.2">¶</a></h3><p><img alt="alt text" src="/e-portfolio/images/RM/ex6-2.png"/></p>
 <p>Looking at the sample interquartile range (IQR) for Diet A(3.285) and Diet B (3.451), it can been observed that IQR for Diet B is a bit higher than of Diet A, suggesting that Diet B has is more inconsistent as it has more varying data compared to Diet A. To conclude, Diet A presents a more consistent and effective weight loss compared to Diet B, as the median is higher for Diet A presenting higher effectiveness and more consistent because of less variability due to narrower IQR.</p>
 </div>
 </div>
@@ -7915,7 +7915,7 @@ a.anchor-link {
 </tr>
 </tbody>
 </table>
-<h3 id="Exercise-6.3">Exercise 6.3<a class="anchor-link" href="#Exercise-6.3">¶</a></h3><p><img alt="alt text" src="data/ex6-3.png"/></p>
+<h3 id="Exercise-6.3">Exercise 6.3<a class="anchor-link" href="#Exercise-6.3">¶</a></h3><p><img alt="alt text" src="/e-portfolio/images/RM/ex6-3.png"/></p>
 <p>Looking at the frequency for Area 1 and Area 2, both of the areas prefer some Other brand of Cereal with Area 1 having 60% and Area 2 having 45.6%. However, larger percentage of people from Area 1 preferred the other brand in comparison to Area 2.</p>
 </div>
 </div>
