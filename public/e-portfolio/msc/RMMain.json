@@ -148,26 +148,20 @@
       "title": "Unit 10",
       "details": [
         {
-          "activity": "<h3>\nDR Solutions Design and Review</h3>\n\n <h4>Discussion Topic</h4>\nRead Opara-Martins et al (2014) and Morrow et al (2021) and answer the following questions:\n\n<ul><li>What are some of the main vendor lock-in issues the authors identify? How would you mitigate them?</li><li>What are some of the security concerns with the modern cloud? How can these be mitigated?</li></ul> <h4>Create a high-level diagram of a DR solution with given requirements.</h4> <ul><li>RPO= 1 hr; RTO= 8 hrs; high availability (HA) required.</li><li>RPO= 24 hrs; RTO = 72 hrs; HA NOT required.</li><li>RPO= 5 mins; RTO= 1 hr; HA required.</li></ul>",
-          "route": "/srm_dr_sol"
-        },
-        {
-          "activity": "<h3>\nTitle: Team Meeting: Assignment 2</h3>\n<h4> Data Collection and AHP-TOPSIS simulation</h4><ul><li>Collected the data for different countries for risks surrounding supply chain.</li><li>Prepared a AHP-TOPSIS simulation.</li><li>Put in data and ran the simulation to get the rankings for the best possible automated warehouse for pampered pets.</li></ul>",
-          "downloadLink": "https://github.com/prannoymulmi/Security-and-Risk-Management/blob/main/simulations/topsis-implementation.ipynb"
+          "activity": "<h3>\nTitle: Research Proposal Presentation</h3>\n<h4> OpenId Connect Protocol Security risk analysis in Cloud-based applications\n</h4><ul><li>Selected topic for Research Proposal and a potential candidate for Msc final Project.</li><li>Sorted out the Aims and the objectives of the research.</li><li>Collected key important literature for the initial study.</li><li>Generated a timeline for the research.</li></ul>",
+          "downloadLink": "https://github.com/prannoymulmi/RM-Stats/tree/main/research_proposal"
         }
       ],
       "outcome": [
-        "Designed Disaster Recovery solutions with different, RTO, and RPO.",
-        "Described and acknowledge the different types of DR solution i.e. DRaaS",
-        "Discussed the challenges with vendor lock-in."
+        "Prepared and submitted Research Proposal."
       ]
     },
     {
       "title": "Unit 11",
       "details": [
         {
-          "activity": "<h3>\nTitle: Team Meeting: Assignment 2 Submission</h3>\n<h4> Run TOPSIS and MCS Simulation in python</h4><ul><li>Created a Notebook to run Monte Carlo simulation in python for Pampered pets.</li><li>Created a Notebook to run AHP-TOPSIS simulation in python for Pampered pets.</li><li>Editing and writing the results of the assessment into the report.</li></ul>",
-          "downloadLink": "https://github.com/prannoymulmi/Security-and-Risk-Management/tree/main/simulations"
+          "activity": "<h3>\nTitle: Professional Skill Matrix</h3>\n<h4> Created a personal Skill matrix</h4><ul><li>Listed the technical and soft-skills.</li><li>Ranked the skills according the level of expertises.</li><li>Added a development Plan.</li></ul>",
+          "route": "/rm_skill_matrix"
         }
       ],
       "outcome": [
