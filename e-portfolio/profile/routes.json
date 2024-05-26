@@ -153,6 +153,11 @@
             "component": "RM/RMResearchProposalOutline",
             "path": "/rm_research_proposal_outline",
             "headerTitle": "RM Research proposal outline"
+        },
+        {
+            "component": "RM/RMSkillMatrix",
+            "path": "/rm_skill_matrix",
+            "headerTitle": "RM Skill Matrix"
         }
     ]
 }
