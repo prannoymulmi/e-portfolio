@@ -26,3 +26,8 @@
     border: 8px Solid #555;
     margin-bottom: 50px;
 }
+
+.image-main-pg {
+    max-width: 100%;
+    margin-bottom: 50px;
+}

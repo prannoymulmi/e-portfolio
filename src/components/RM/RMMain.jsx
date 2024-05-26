@@ -192,7 +192,7 @@ function SRMMain() {
                       </Button>
                     </Link>
                     <h4 style={styles.header}>Professional Skill Matrix</h4>
-                    <img className="reflection-image" src="/e-portfolio/images/RM/prof_matrix.png"/>
+                    <img className="image-main-pg" src="/e-portfolio/images/RM/prof_matrix.png"/>
                   </Col>
                 </Row>
               </Fade>
